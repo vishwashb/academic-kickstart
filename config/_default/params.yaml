@@ -20,19 +20,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: vishwash@tutanota.com
 phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: CR121, Colin Reeves
+  city: Keele
+  region: Staffordshire
+  postcode: 'ST5 5BG'
+  country: United Kingdom
+  country_code: UK
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '53.0033'
+  longitude: '2.2736'
+directions: Enter Collin Reeves Building on second floor
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
@@ -41,11 +41,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+    link: 'https://twitter.com/VishwashBatra'
   - icon: keybase
     icon_pack: fab
     name: Chat on Keybase
@@ -70,7 +66,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: en-gb
 
 # Site features
 
