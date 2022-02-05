@@ -50,7 +50,7 @@ experience:
 
   - title: Research Intern
     company: Aston University
-    company_url: 'https://www.aston.co.uk/'
+    company_url: 'https://www.aston.ac.uk/'
     company_logo: org-x
     location: Birmingham, United Kingdom
     date_start: '2014-04-01'
@@ -63,7 +63,7 @@ experience:
   
   - title: Research Intern
     company: Indian Institute of Science Bangalore (IISc)
-    company_url: 'https://www.iisc.co.in/'
+    company_url: 'https://iisc.ac.in/'
     company_logo: org-x
     location: Bangalore, India
     date_start: '2013-12-01'
