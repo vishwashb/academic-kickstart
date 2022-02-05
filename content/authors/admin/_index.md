@@ -65,7 +65,7 @@ highlight_name: true
 ---
 
 
-Vishwash Batra carried out his PhD studies in the Computer Science Department at [University of Warwick](https://www.warwick.ac.uk). He received his Bachelors (2015) in Computer Science and Engineering from [Indian Institute of Technology Ropar](http://www.iitrpr.ac.in), India. 
+Vishwash Batra carried out his PhD studies in the Computer Science Department at [University of Warwick](https://www.warwick.ac.uk) where his research topic involved developing neural models for stepwise text illustration.. He received his Bachelors (2015) in Computer Science and Engineering from [Indian Institute of Technology Ropar](http://www.iitrpr.ac.in), India. 
 
 He joined his PhD studies in January 2016 and since has been a part of NLP research group. His research interests include semantics, structured representation of images and texts. He is continuously working towards developing Machine Learning and Deep Learning based solutions for many tasks in Natural Language Processing and Computer Vision. Besides his primary research-area of natural language processing, he is also working on data mining and knowledge graphs. He also has some relevant industrial experience of working as a Software Development Engineer in the e-commerce sector.
 
