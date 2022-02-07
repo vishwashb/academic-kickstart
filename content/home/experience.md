@@ -27,7 +27,7 @@ experience:
   - title: Research Assistant
     company: University of Warwick
     company_url: 'https://www.warwick.ac.uk'
-    company_logo: org-x
+    company_logo: warwick
     location: Coventry, United Kingdom
     date_start: '2019-05-01'
     date_end: '2019-12-01'
@@ -51,7 +51,7 @@ experience:
   - title: Research Intern
     company: Aston University
     company_url: 'https://www.aston.ac.uk/'
-    company_logo: org-x
+    company_logo: aston
     location: Birmingham, United Kingdom
     date_start: '2014-04-01'
     date_end: '2014-07-01'
@@ -64,7 +64,7 @@ experience:
   - title: Research Intern
     company: Indian Institute of Science Bangalore (IISc)
     company_url: 'https://iisc.ac.in/'
-    company_logo: org-x
+    company_logo: iisc
     location: Bangalore, India
     date_start: '2013-12-01'
     date_end: '2013-12-31'
