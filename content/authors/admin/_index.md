@@ -12,7 +12,7 @@ role: Lecturer in Computer Science
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Keele University
-- url: https://www.keele.ac.uk/scm/staff/vishwashbatra/
+  url: https://www.keele.ac.uk/scm/staff/vishwashbatra/
 
 
 # Short bio (displayed in user profile at end of posts)
