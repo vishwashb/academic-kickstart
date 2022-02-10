@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Vishwash Batra
+url: https://www.keele.ac.uk/scm/staff/vishwashbatra/
 
 # Is this the primary user of the site?
 superuser: true
@@ -11,7 +12,7 @@ role: Lecturer in Computer Science
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Keele University
-  url: https://www.keele.ac.uk/scm/staff/vishwashbatra/
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning, computer vision and natural language processing.
