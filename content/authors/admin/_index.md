@@ -7,7 +7,7 @@ title: Vishwash Batra
 superuser: true
 
 # Role/position/tagline
-role: ML Scientist
+role: AI Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
