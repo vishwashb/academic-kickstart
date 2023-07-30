@@ -7,11 +7,11 @@ title: Vishwash Batra
 superuser: true
 
 # Role/position/tagline
-role: AI Researcher
+role: Multimodal AI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Keele University
+- name: Keele
   url: https://www.keele.ac.uk/scm/staff/vishwashbatra/
 
 
@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Computer Science(AI)
     institution: University of Warwick
     year: 2020
   - course: BTech in Computer Science and Engineering
