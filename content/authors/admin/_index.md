@@ -7,7 +7,7 @@ title: Vishwash Batra
 superuser: true
 
 # Role/position/tagline
-role: Multimodal AI
+role: Multimodal AI, London (UK)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science(AI)
+  - course: PhD in Artificial Intelligence (NLP)
     institution: University of Warwick
     year: 2020
   - course: BTech in Computer Science and Engineering
@@ -67,7 +67,7 @@ highlight_name: true
 ---
 
 
-Vishwash Batra carried out his PhD studies in the Computer Science Department at [University of Warwick](https://www.warwick.ac.uk) where his research topic involved developing neural models for stepwise text illustration. He received his Bachelors (2015) in Computer Science and Engineering from [Indian Institute of Technology Ropar](http://www.iitrpr.ac.in), India. 
+I received my PhD degree from Computer Science Department at [University of Warwick](https://www.warwick.ac.uk). My research topic centered around developing neural models for the task of stepwise text illustration. Prior to this, I received my Bachelors degree (2015) in Computer Science and Engineering from [Indian Institute of Technology Ropar](http://www.iitrpr.ac.in), India. 
 
-He received his PhD degree in 2020 and since has been a part of NLP research group. His research interests include semantics, structured representation of images and texts. He is continuously working towards developing Machine Learning and Deep Learning based solutions for many tasks in Natural Language Processing and Computer Vision. Besides his primary research-area of natural language processing, he is also working on data mining and knowledge graphs. He also has some relevant industrial experience of working as a Software Development Engineer in the e-commerce sector.
+I have been part of the NLP research group. My primary research interests include semantics, joint representation of images and texts. I am continuously working towards developing Machine Learning and Deep Learning based solutions for many tasks in Natural Language Processing and Computer Vision. Besides my primary research-area of natural language processing, I also work on data mining and knowledge graphs. I actively do industrial collaborations and worked previously in the ecommerce sector as a Software Development Engineer.
 
