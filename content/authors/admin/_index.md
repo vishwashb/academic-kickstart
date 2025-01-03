@@ -66,8 +66,8 @@ email: "vishwash@tutanota.com"
 highlight_name: true
 ---
 
+I hold a PhD in Computer Science from the  [University of Warwick](https://www.warwick.ac.uk), awarded in 2020, where my research focused on developing neural models for stepwise text illustration. Prior to this, I earned a Bachelor's degree in Computer Science and Engineering from the [Indian Institute of Technology (IIT) Ropar](http://www.iitrpr.ac.in) in 2015.
 
-I received my PhD degree from Computer Science Department at [University of Warwick](https://www.warwick.ac.uk) in 2020. My research topic centered around developing neural models for the task of stepwise text illustration. Prior to this, I received my Bachelors degree (2015) in Computer Science and Engineering from [Indian Institute of Technology Ropar](http://www.iitrpr.ac.in), India. 
+My academic journey includes being a part of the NLP research group at Warwick and Alan Turing Institute London, where I concentrated on semantics and the joint representation of images and text. My primary research interests lie at the intersection of Natural Language Processing (NLP) and Computer Vision, with a focus on leveraging Deep Learning techniques to address multidisciplinary challenges. Additionally, I explore complementary areas such as data mining and knowledge graphs.
 
-I have been part of the NLP research group. My primary research interests include semantics, joint representation of images and texts. I am continuously working towards developing Machine Learning and Deep Learning based solutions for many tasks lying at the intersection of Natural Language Processing and Computer Vision. Besides my primary research-area of natural language processing, I also work on data mining and knowledge graphs. I actively do industrial collaborations and worked previously in the ecommerce sector as a Software Development Engineer.
-
+Beyond academia, I actively collaborate with industry partners to translate research into practical solutions. I bring hands-on experience from my previous role as a Software Development Engineer in the e-commerce sector, where I developed scalable and innovative technologies.
